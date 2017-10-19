@@ -1,0 +1,104 @@
+.div1 {
+	height: 320px;
+	width: 160px;
+	background-color: #BCA9F5;
+	border: 1px solid black;
+	position: absolute;
+	top: 54px;
+	padding: 20px;
+}
+
+.div2 {
+	height: 320px;
+	width: 160px;
+	background-color: #BCA9F5;
+	border: 1px solid black;
+	position: absolute;
+	left: 218px;
+	top: 54px;
+	padding: 20px;
+}
+
+.div3 {
+	height: 350px;
+	width: 180px;
+	background-color: #CEECF5;
+	border: 1px solid black;
+	position: absolute;
+	left: 428px;
+	top: 40px;
+	padding: 20px;
+}
+
+.div4 {
+	height: 320px;
+	width: 160px;
+	background-color: #BCA9F5;
+	border: 1px solid black;
+	position: absolute;
+	left: 658px;
+	top: 54px;
+	padding: 20px;
+}
+
+.div5 {
+	height: 320px;
+	width: 160px;
+	background-color: #BCA9F5;
+	border: 1px solid black;
+	position: absolute;
+	left: 868px;
+	top: 54px;
+	padding: 20px;
+}
+
+.distintot, #distintott {
+	color: #A9BCF5;
+}
+
+.distintop {
+	color: black;
+}
+
+h2,h3 {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	color: #CEF6F5;
+
+}
+
+p {
+	text-align: center;
+	font-family: 'Shadows Into Light Two', cursive;
+	color: #FBF5EF;
+}
+
+.fa-bed {
+	position: relative;
+	left: 50px;
+	color: #E1F5A9;
+}
+
+.fa-gamepad {
+	position: relative;
+	left: 50px;
+	color: #E1F5A9;
+}
+
+.fa-scissors {
+	position: relative;
+	left: 60px;
+	color: #F5BCA9;
+}
+
+.fa-music {
+	position: relative;
+	left: 50px;
+	color: #E1F5A9;
+}
+
+.fa-paw {
+	position: relative;
+	left: 50px;
+	color: #E1F5A9;
+}
